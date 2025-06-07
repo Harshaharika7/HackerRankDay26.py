@@ -54,9 +54,9 @@ Complete a program that:
    
 - Due Date: 6 June 2015
   
- → Same month and year, 3 days late  
+   → Same month and year, 3 days late  
 
- → Fine = 15 × 3 = 45
+   → Fine = 15 × 3 = 45
 
 ## 🧠 Concepts Practiced
 
